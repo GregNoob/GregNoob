@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/gregnoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/gregnoob" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/caplea-george-alexandru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caplea-george-alexandru/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19345035/greg-noob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19345035/greg-noob" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/caplea.george/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/caplea.george/" height="30" width="40" /></a>
+<a href="https://dev.to/gregnoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/gregnoob" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/caplea-george-alexandru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caplea-george-alexandru/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19345035/greg-noob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19345035/greg-noob" height="30" width="40" /></a>
+<a href="https://www.facebook.com/caplea.george/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/caplea.george/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
